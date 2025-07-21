@@ -1,0 +1,20 @@
+[project]
+name = "assign"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Muhammad Bilal Hussain", email = "bh1977955@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai-agents>=0.2.2",
+]
+
+[project.scripts]
+assign = "assign:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

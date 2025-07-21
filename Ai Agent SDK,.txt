@@ -17,12 +17,18 @@ hallucination = 'jab bhi koi AI model false information de is k hum word use krt
 
 Andrej karpraty 'deep dive into LLM'
 
+Rust = "ye languagde c++ pe bani hai"
+30 dec 2022 launched date chatgpt
+openAI ki old API "completionAPI"
+current uses API "ResponsiveAPI"
+
+User> Runner> Agent > LLM OR TOOLCall
+agar user ki request ki info LLM k as na hui to wo toolcall krega
+Guardial just wo info dega jo LLm me hoga
 
 
 
-
-
-
+======================================================================================
 
 
 
